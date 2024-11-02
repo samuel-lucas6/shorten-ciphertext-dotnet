@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Version>1.0.0</Version>
+        <Authors>Samuel Lucas</Authors>
+        <Description>A .NET implementation of the Shorten Ciphertext (SC) transform for AEAD commitment.</Description>
+        <Copyright>Copyright (c) 2024 Samuel Lucas</Copyright>
+        <PackageProjectUrl>https://github.com/samuel-lucas6/shorten-ciphertext-dotnet</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/samuel-lucas6/shorten-ciphertext-dotnet</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>chacha20-poly1305 chacha20 poly1305 blake2b blake2b-256 aes aes-256 sc sc-transform shorten-ciphertext cty commitment aead aead-commitment</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Geralt" Version="3.1.0" />
+    </ItemGroup>
+
+</Project>

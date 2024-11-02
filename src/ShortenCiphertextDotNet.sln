@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortenCiphertextDotNet", "ShortenCiphertextDotNet\ShortenCiphertextDotNet.csproj", "{CC465BA3-CAEA-4FE4-80DE-030ED9BDE4DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortenCiphertextDotNet.Tests", "ShortenCiphertextDotNet.Tests\ShortenCiphertextDotNet.Tests.csproj", "{1B0A15AF-8478-4D49-82C1-E259D0D9D993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC465BA3-CAEA-4FE4-80DE-030ED9BDE4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC465BA3-CAEA-4FE4-80DE-030ED9BDE4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC465BA3-CAEA-4FE4-80DE-030ED9BDE4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC465BA3-CAEA-4FE4-80DE-030ED9BDE4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0A15AF-8478-4D49-82C1-E259D0D9D993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0A15AF-8478-4D49-82C1-E259D0D9D993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0A15AF-8478-4D49-82C1-E259D0D9D993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0A15AF-8478-4D49-82C1-E259D0D9D993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
